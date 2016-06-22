@@ -1,0 +1,15 @@
+{
+  "name": "singing-keyboard",
+  "version": "1.0.0",
+  "description": "Singing Keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Gentle <sam@samgentle.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "buble": "^0.11.3",
+    "nodemon": "^1.9.2"
+  }
+}
